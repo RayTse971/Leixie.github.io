@@ -15,7 +15,9 @@ I was a Postdoctoral Fellow with the Department of Electronic and Computer Engin
 I'm currently an associate professor with the School of Cyber Science and Engineering, Southeast University, Nanjing, China. 
 
 I served as the Tutorial Program co-chair of the 2025 IEEE 102nd Vehicular Technology Conference Workshop. 
+
 ![Editing a markdown file for a talk](/images/editing-talk.png){: .align-right width = "300px"}
+
 Research interests
 ======
 Integrated sensing and communications
