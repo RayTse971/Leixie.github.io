@@ -16,7 +16,7 @@ I'm currently an associate professor with the School of Cyber Science and Engine
 
 I served as the Tutorial Program co-chair of the 2025 IEEE 102nd Vehicular Technology Conference Workshop. 
 
-![Editing a markdown file for a talk](/images/editing-talk.png){: .align-right width = "300px"}
+![Editing a markdown file for a talk](/images/editing-talk.png){: .align-right width="300px"}
 
 Research interests
 ======
