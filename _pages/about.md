@@ -22,9 +22,13 @@ Example: editing a markdown file for a talk
 Research interests
 ======
 Integrated sensing and communications
+
 Perceptive mobile networks
+
 Statistical signal processing
+
 Optimization theory
+
 Artificial intelligence
 
 For more info
