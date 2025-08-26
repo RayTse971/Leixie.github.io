@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronic Information Engineering | 工学学士（电子信息工程）
+
+  University of Electronic Science and Technology of China, Chengdu, China, 2012 – 2016
+
+  电子科技大学，中国成都，2012 – 2016
+
+* Ph.D in Signal and Information Processing | 工学博士（信号与信息处理）
+
+  University of Electronic Science and Technology of China, Chengdu, China, 2012 – 2016
+
+  电子科技大学，中国成都，2012 – 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Fellow | 博士后研究员
+  * Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Hong Kong, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+    香港科技大学 电子与计算机工程学系，中国香港，2021 – 2024
 
 Publications
 ======
@@ -42,18 +36,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
