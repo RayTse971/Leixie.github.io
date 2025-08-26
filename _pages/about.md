@@ -12,23 +12,25 @@ Research Experience | 科研经历
 ------
 
 Postdoctoral Fellow | 博士后研究员
-Department of Electronic and Computer Engineering,
-The Hong Kong University of Science and Technology, Hong Kong, China
-香港科技大学 电子与计算机工程学系，中国香港
-2021 – 2024
+
+Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology, Hong Kong, China
+
+香港科技大学 电子与计算机工程学系，中国香港，2021 – 2024
 
 Education | 教育背景
 ------
 
 Ph.D. in Signal and Information Processing | 工学博士（信号与信息处理）
+
 University of Electronic Science and Technology of China, Chengdu, China
-电子科技大学，中国成都
-2016 – 2021
+
+电子科技大学，中国成都，2016 – 2021
 
 B.E. in Electronic Information Engineering | 工学学士（电子信息工程）
+
 University of Electronic Science and Technology of China, Chengdu, China
-电子科技大学，中国成都
-2012 – 2016
+
+电子科技大学，中国成都，2012 – 2016
 
 Research interests
 ======
@@ -56,7 +58,7 @@ Publication List
 
 5. L. Xie, P. Wang, S. Song, and K. B. Letaief, “Perceptive Mobile Network with Distributed Target Monitoring Terminals: Leaking Communication Energy for Sensing”, IEEE Transactions on Wireless Communications, vol. 21, no. 12, pp. 10193-10207, Dec. 2022. 
 
-6. L. Xie, Z. He, J. Tong, T. Liu, J. Li, and J. Xi,“Regularized Covariance Estimation for Polarization Radar Detection in Compound Gaussian Sea Clutter”, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, Jan. 2022. 
+6. L. Xie, Z. He, J. Tong, T. Liu, J. Li, and J. Xi, “Regularized Covariance Estimation for Polarization Radar Detection in Compound Gaussian Sea Clutter”, IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, Jan. 2022. 
 
 7. L. Xie, Z. He, J. Tong, and W. Zhang, “A Recursive Angle-Doppler Channel Selection Method for Reduced-Dimension Space-Time Adaptive Processing”, IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 5, pp. 3985-4000, Oct. 2020. 
 
@@ -76,7 +78,7 @@ Publication List
 
 15. Z. Wang, Y. Sun, Q. Wan, L. Xie, and N. Liu, “An Iterative Direct Position Determination Approach Based on Doppler Frequency Shifts”, IEEE Sensors Journal, vol. 22, no. 22, pp. 21885-21898, Nov. 2022. 
 
-16. W. Peng, L. Xie*, J. Shi, T. Gu, and Z. He, “Beampattern Synthesis using Quantized Phase Control via Multi-point Iterative Gradient Descent”, IEEE communications letters, vol. 26, no. 3, pp. 647-651, March 2022.
+16. W. Peng, L. Xie*, J. Shi, T. Gu, and Z. He, “Beampattern Synthesis using Quantized Phase Control via Multi-point Iterative Gradient Descent”, IEEE Communications Letters, vol. 26, no. 3, pp. 647-651, March 2022.
 
 17. J. Shi, L. Xie*, Z. Cheng, Z. He, and W. Zhang, “Angle-Doppler Channel Selection Method for Reduced-Dimension STAP based on Sequential Convex Programming”, IEEE Communications Letters, vol. 25, no. 9, pp. 3080-3084, Sept. 2021.
 
