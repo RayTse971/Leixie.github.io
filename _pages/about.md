@@ -22,6 +22,6 @@ We are seeking candidates with a strong interest in Mathematics and its applicat
 For more info
 ------
 
-Thanks for stopping by. Feel free to explore my work or reach out if you’d like to connect! 🚀
+Thanks for stopping by. Please feel free to explore my work or reach out if you’d like to connect! 🚀
 
 
