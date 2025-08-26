@@ -19,10 +19,9 @@ Beyond research, I enjoy learning new ideas, collaborating with curious minds, a
 
 We are seeking candidates with a strong interest in Mathematics and its applications in Machine Learning and Communications.
 
-Thanks for stopping by. Feel free to explore my work or reach out if you’d like to connect! 🚀
-
 For more info
 ------
 
+Thanks for stopping by. Feel free to explore my work or reach out if you’d like to connect! 🚀
 
 
