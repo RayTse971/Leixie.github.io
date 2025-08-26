@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Research Experience | 科研经历
+------
 
 Postdoctoral Fellow | 博士后研究员
 Department of Electronic and Computer Engineering,
@@ -17,6 +18,7 @@ The Hong Kong University of Science and Technology, Hong Kong, China
 2021 – 2024
 
 Education | 教育背景
+------
 
 Ph.D. in Signal and Information Processing | 工学博士（信号与信息处理）
 University of Electronic Science and Technology of China, Chengdu, China
