@@ -87,13 +87,6 @@ Conference | 会议论文
 
 8. Y. Xu, L. Xie, D. Xu, S. Song, “Fundamental Limits and Base Station Selection for Collaborative Sensing in Perceptive Mobile Network”, IEEE International Mediterranean Conference on Communications and Networking (MeditCom), 2023.
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* TPC Co-Chair, 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)
