@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ray's Homepage"
+title                    : "Lei's Homepage"
 title_separator          : "-"
 name                     : &name "Ray"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lei XIE"
-  avatar           : "profile.png"
+  name             : "Lei XIE (谢磊)"
+  avatar           : "LX.png"
   bio              : "Associate Professor"
   location         : "Nanjing"
   employer         : "Southeast University"
