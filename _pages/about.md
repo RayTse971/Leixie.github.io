@@ -17,7 +17,7 @@ I received my B.E. in Electronic Information Engineering from the University of 
 
 Beyond research, I enjoy learning new ideas, collaborating with curious minds, and building projects that connect theory with real-world impact. My group is seeking candidates with a strong interest in Mathematics and its applications in Machine Learning and Communications.
 
-![SEU](/images/SEU.jpg)
+<img src="/images/SEU.jpg" alt="SEU" width="300">
 
 For more info
 ------
