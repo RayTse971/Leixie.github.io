@@ -11,13 +11,14 @@ redirect_from:
 Welcome! 👋
 ======
 
+<img src="/images/SEU.jpg" alt="SEU" width="300" align="right">
 Hi, I’m Lei Xie. I am currently an associate professor with the School of Cyber Science and Engineering, Southeast University, Nanjing, China. I’m passionate about exploring how signal processing and machine learning can make integrated sensing and communication (ISAC) systems smarter and more efficient.
 
 I received my B.E. in Electronic Information Engineering from the University of Electronic Science and Technology of China (UESTC) in 2016, and my Ph.D. in Signal and Information Processing from UESTC in 2021. From 2021 to 2024, I worked as a Postdoctoral Fellow at the Hong Kong University of Science and Technology (HKUST). 
 
 Beyond research, I enjoy learning new ideas, collaborating with curious minds, and building projects that connect theory with real-world impact. My group is seeking candidates with a strong interest in Mathematics and its applications in Machine Learning and Communications.
 
-<img src="/images/SEU.jpg" alt="SEU" width="300">
+
 
 For more info
 ------
