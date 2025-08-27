@@ -20,4 +20,4 @@ For more info
 ------
 Thanks for stopping by. Please feel free to reach out if you’d like to connect! 🚀
 
-![示例](../images/SEU.jpg)
+![示例](SEU.jpg)
