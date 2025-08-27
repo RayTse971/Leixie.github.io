@@ -20,4 +20,5 @@ For more info
 ------
 Thanks for stopping by. Please feel free to reach out if you’d like to connect! 🚀
 
-![示例]("SEU.jpg")
+Example: editing a Markdown file for a talk
+![Editing a Markdown file for a talk](/images/editing-talk.png)
